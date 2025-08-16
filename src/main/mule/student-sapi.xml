@@ -30,6 +30,7 @@
         </http:listener>
         <apikit:console config-ref="student-sapi-config" />
         <error-handler>
+        </error-handler>
                 </flow>
     <flow name="get:\student:student-sapi-config">
         <ee:transform doc:name="Transform Message">
