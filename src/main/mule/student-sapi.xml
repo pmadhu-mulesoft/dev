@@ -130,7 +130,7 @@ output application/json
 output application/json
 ---
 {
-  responses: "sucess"
+  "responses": "sucess"
 } as Object {encoding: "UTF-8", mediaType: "application/json"}]]></ee:set-payload>
             </ee:message>
         </ee:transform>
